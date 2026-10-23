@@ -1,0 +1,10 @@
+{
+  "name": "pi-prompt-stash-ext",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pi extension: press F2 to stash the editor draft, run a slash command, then press F2 to restore it",
+  "type": "module",
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
